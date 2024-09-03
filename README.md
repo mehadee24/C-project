@@ -1,5 +1,5 @@
 # C-project
-this project has been done alone by me , although my uni professor 
+This project has been done alone by me , although my uni professor 
 MR Fazle Elahe sir have help all throughout the project
 
 known bugs -
